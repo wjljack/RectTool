@@ -1,0 +1,449 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Accept	.\CaptureImageTool\Properties\Resources.Designer.cs	/^        internal static System.Drawing.Bitmap Accept {$/;"	p	class:CSharpWin_JD.CaptureImage.Properties.Resources
+AddOperate	.\CaptureImageTool\CaptureImageTool.cs	/^        private void AddOperate(Point point)$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+AddOperate	.\CaptureImageTool\OperateManager.cs	/^        public void AddOperate($/;"	m	class:CSharpWin_JD.CaptureImage.OperateManager
+All	.\CaptureImageTool\RoundStyle.cs	/^        All = 1,$/;"	e	enum:CSharpWin_JD.CaptureImage.RoundStyle	file:
+All	.\CaptureImageTool\SizeGrip.cs	/^        All$/;"	e	enum:CSharpWin_JD.CaptureImage.SizeGrip	file:
+Arrow	.\CaptureImageToolDemo\CursorManager.cs	/^        public static readonly Cursor Arrow = $/;"	f	class:CaptureImageToolDemo.CursorManager
+Arrow	.\CaptureImageTool\DrawStyle.cs	/^        Arrow,$/;"	e	enum:CSharpWin_JD.CaptureImage.DrawStyle	file:
+Arrow	.\CaptureImageTool\Properties\Resources.Designer.cs	/^        internal static System.Drawing.Bitmap Arrow {$/;"	p	class:CSharpWin_JD.CaptureImage.Properties.Resources
+ArrowNew	.\CaptureImageToolDemo\CursorManager.cs	/^        public static readonly Cursor ArrowNew = $/;"	f	class:CaptureImageToolDemo.CursorManager
+Arrow_M	.\CaptureImageTool\Properties\Resources.Designer.cs	/^        internal static System.Drawing.Icon Arrow_M {$/;"	p	class:CSharpWin_JD.CaptureImage.Properties.Resources
+BLACKNESS	.\CaptureImageTool\NativeMethods.cs	/^            BLACKNESS = 0x00000042, \/* dest = BLACK*\/$/;"	e	enum:CSharpWin_JD.CaptureImage.NativeMethods.TernaryRasterOperations	file:
+BackColorHover	.\CaptureImageToolDemo\ProfessionalCaptureImageToolColorTable.cs	/^        public override Color BackColorHover$/;"	p	class:CaptureImageToolDemo.ProfessionalCaptureImageToolColorTable
+BackColorHover	.\CaptureImageTool\CaptureImageToolColorTable.cs	/^        public virtual Color BackColorHover$/;"	p	class:CSharpWin_JD.CaptureImage.CaptureImageToolColorTable
+BackColorNormal	.\CaptureImageToolDemo\ProfessionalCaptureImageToolColorTable.cs	/^        public override Color BackColorNormal$/;"	p	class:CaptureImageToolDemo.ProfessionalCaptureImageToolColorTable
+BackColorNormal	.\CaptureImageTool\CaptureImageToolColorTable.cs	/^        public virtual Color BackColorNormal$/;"	p	class:CSharpWin_JD.CaptureImage.CaptureImageToolColorTable
+BackColorPressed	.\CaptureImageToolDemo\ProfessionalCaptureImageToolColorTable.cs	/^        public override Color BackColorPressed$/;"	p	class:CaptureImageToolDemo.ProfessionalCaptureImageToolColorTable
+BackColorPressed	.\CaptureImageTool\CaptureImageToolColorTable.cs	/^        public virtual Color BackColorPressed$/;"	p	class:CSharpWin_JD.CaptureImage.CaptureImageToolColorTable
+BitBlt	.\CaptureImageTool\NativeMethods.cs	/^        public static extern bool BitBlt($/;"	m	class:CSharpWin_JD.CaptureImage.NativeMethods	file:
+BorderColor	.\CaptureImageToolDemo\ProfessionalCaptureImageToolColorTable.cs	/^        public override Color BorderColor$/;"	p	class:CaptureImageToolDemo.ProfessionalCaptureImageToolColorTable
+BorderColor	.\CaptureImageTool\CaptureImageToolColorTable.cs	/^        public virtual Color BorderColor$/;"	p	class:CSharpWin_JD.CaptureImage.CaptureImageToolColorTable
+BorderColor	.\CaptureImageTool\ColorLabel.cs	/^        public Color BorderColor$/;"	p	class:CSharpWin_JD.CaptureImage.ColorLabel
+Bottom	.\CaptureImageTool\DrawToolsDockStyle.cs	/^        Bottom$/;"	e	enum:CSharpWin_JD.CaptureImage.DrawToolsDockStyle	file:
+Bottom	.\CaptureImageTool\NativeMethods.cs	/^            public int Bottom;$/;"	f	struct:CSharpWin_JD.CaptureImage.NativeMethods.RECT
+Bottom	.\CaptureImageTool\RoundStyle.cs	/^        Bottom = 5$/;"	e	enum:CSharpWin_JD.CaptureImage.RoundStyle	file:
+Bottom	.\CaptureImageTool\SizeGrip.cs	/^        Bottom,$/;"	e	enum:CSharpWin_JD.CaptureImage.SizeGrip	file:
+BottomLeft	.\CaptureImageTool\SizeGrip.cs	/^        BottomLeft,$/;"	e	enum:CSharpWin_JD.CaptureImage.SizeGrip	file:
+BottomRight	.\CaptureImageTool\SizeGrip.cs	/^        BottomRight,$/;"	e	enum:CSharpWin_JD.CaptureImage.SizeGrip	file:
+BottomUp	.\CaptureImageTool\DrawToolsDockStyle.cs	/^        BottomUp,$/;"	e	enum:CSharpWin_JD.CaptureImage.DrawToolsDockStyle	file:
+ButtonAboutClick	.\CaptureImageToolDemo\FormCSharpWinDemo.cs	/^        private void ButtonAboutClick(object sender, EventArgs e)$/;"	m	class:CaptureImageToolDemo.FormCSharpWinDemo	file:
+ButtonAcceptClick	.\CaptureImageTool\DrawToolsControl.cs	/^        public event EventHandler ButtonAcceptClick$/;"	p	class:CSharpWin_JD.CaptureImage.DrawToolsControl
+ButtonDrawStyleClick	.\CaptureImageTool\DrawToolsControl.cs	/^        public event EventHandler ButtonDrawStyleClick$/;"	p	class:CSharpWin_JD.CaptureImage.DrawToolsControl
+ButtonExitClick	.\CaptureImageTool\DrawToolsControl.cs	/^        public event EventHandler ButtonExitClick$/;"	p	class:CSharpWin_JD.CaptureImage.DrawToolsControl
+ButtonRedoClick	.\CaptureImageTool\DrawToolsControl.cs	/^        public event EventHandler ButtonRedoClick$/;"	p	class:CSharpWin_JD.CaptureImage.DrawToolsControl
+ButtonSaveClick	.\CaptureImageTool\DrawToolsControl.cs	/^        public event EventHandler ButtonSaveClick$/;"	p	class:CSharpWin_JD.CaptureImage.DrawToolsControl
+CSharpWin_JD.CaptureImage	.\CaptureImageTool\CaptureImageTool.Designer.cs	/^﻿namespace CSharpWin_JD.CaptureImage$/;"	n
+CSharpWin_JD.CaptureImage	.\CaptureImageTool\CaptureImageTool.cs	/^namespace CSharpWin_JD.CaptureImage$/;"	n
+CSharpWin_JD.CaptureImage	.\CaptureImageTool\CaptureImageToolColorTable.cs	/^namespace CSharpWin_JD.CaptureImage$/;"	n
+CSharpWin_JD.CaptureImage	.\CaptureImageTool\ColorLabel.cs	/^namespace CSharpWin_JD.CaptureImage$/;"	n
+CSharpWin_JD.CaptureImage	.\CaptureImageTool\ColorSelector.Designer.cs	/^﻿namespace CSharpWin_JD.CaptureImage$/;"	n
+CSharpWin_JD.CaptureImage	.\CaptureImageTool\ColorSelector.cs	/^namespace CSharpWin_JD.CaptureImage$/;"	n
+CSharpWin_JD.CaptureImage	.\CaptureImageTool\ControlPaintEx.cs	/^namespace CSharpWin_JD.CaptureImage$/;"	n
+CSharpWin_JD.CaptureImage	.\CaptureImageTool\DrawStyle.cs	/^namespace CSharpWin_JD.CaptureImage$/;"	n
+CSharpWin_JD.CaptureImage	.\CaptureImageTool\DrawTextData.cs	/^namespace CSharpWin_JD.CaptureImage$/;"	n
+CSharpWin_JD.CaptureImage	.\CaptureImageTool\DrawToolsControl.cs	/^namespace CSharpWin_JD.CaptureImage$/;"	n
+CSharpWin_JD.CaptureImage	.\CaptureImageTool\DrawToolsControl.designer.cs	/^﻿namespace CSharpWin_JD.CaptureImage$/;"	n
+CSharpWin_JD.CaptureImage	.\CaptureImageTool\DrawToolsDockStyle.cs	/^namespace CSharpWin_JD.CaptureImage$/;"	n
+CSharpWin_JD.CaptureImage	.\CaptureImageTool\GraphicsPathHelper.cs	/^namespace CSharpWin_JD.CaptureImage$/;"	n
+CSharpWin_JD.CaptureImage	.\CaptureImageTool\NativeMethods.cs	/^namespace CSharpWin_JD.CaptureImage$/;"	n
+CSharpWin_JD.CaptureImage	.\CaptureImageTool\OperateManager.cs	/^namespace CSharpWin_JD.CaptureImage$/;"	n
+CSharpWin_JD.CaptureImage	.\CaptureImageTool\OperateObject.cs	/^namespace CSharpWin_JD.CaptureImage$/;"	n
+CSharpWin_JD.CaptureImage	.\CaptureImageTool\OperateType.cs	/^namespace CSharpWin_JD.CaptureImage$/;"	n
+CSharpWin_JD.CaptureImage	.\CaptureImageTool\RegionHelper.cs	/^namespace CSharpWin_JD.CaptureImage$/;"	n
+CSharpWin_JD.CaptureImage	.\CaptureImageTool\RoundStyle.cs	/^namespace CSharpWin_JD.CaptureImage$/;"	n
+CSharpWin_JD.CaptureImage	.\CaptureImageTool\SizeGrip.cs	/^namespace CSharpWin_JD.CaptureImage$/;"	n
+CSharpWin_JD.CaptureImage	.\CaptureImageTool\ToolStripRendererEx.cs	/^namespace CSharpWin_JD.CaptureImage$/;"	n
+CSharpWin_JD.CaptureImage.Properties	.\CaptureImageTool\Properties\Resources.Designer.cs	/^namespace CSharpWin_JD.CaptureImage.Properties {$/;"	n
+CSharpWin_JD.CaptureImage.Properties	.\CaptureImageTool\Properties\Settings.Designer.cs	/^namespace CSharpWin_JD.CaptureImage.Properties {$/;"	n
+CalCulateSizeGripRect	.\CaptureImageTool\CaptureImageTool.cs	/^        private void CalCulateSizeGripRect()$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+CalculateBackgroundImageRectangle	.\CaptureImageTool\ControlPaintEx.cs	/^        internal static Rectangle CalculateBackgroundImageRectangle($/;"	m	class:CSharpWin_JD.CaptureImage.ControlPaintEx	file:
+CaptureImageTool	.\CaptureImageTool\CaptureImageTool.Designer.cs	/^    partial class CaptureImageTool$/;"	c	namespace:CSharpWin_JD.CaptureImage
+CaptureImageTool	.\CaptureImageTool\CaptureImageTool.cs	/^        public CaptureImageTool()$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool
+CaptureImageTool	.\CaptureImageTool\CaptureImageTool.cs	/^    public partial class CaptureImageTool : Form$/;"	c	namespace:CSharpWin_JD.CaptureImage
+CaptureImageToolColorTable	.\CaptureImageTool\CaptureImageToolColorTable.cs	/^        public CaptureImageToolColorTable() { }$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageToolColorTable
+CaptureImageToolColorTable	.\CaptureImageTool\CaptureImageToolColorTable.cs	/^    public class CaptureImageToolColorTable$/;"	c	namespace:CSharpWin_JD.CaptureImage
+CaptureImageToolDemo	.\CaptureImageToolDemo\CursorManager.cs	/^namespace CaptureImageToolDemo$/;"	n
+CaptureImageToolDemo	.\CaptureImageToolDemo\FormCSharpWinDemo.Designer.cs	/^﻿namespace CaptureImageToolDemo$/;"	n
+CaptureImageToolDemo	.\CaptureImageToolDemo\FormCSharpWinDemo.cs	/^namespace CaptureImageToolDemo$/;"	n
+CaptureImageToolDemo	.\CaptureImageToolDemo\ProfessionalCaptureImageToolColorTable.cs	/^namespace CaptureImageToolDemo$/;"	n
+CaptureImageToolDemo	.\CaptureImageToolDemo\Program.cs	/^namespace CaptureImageToolDemo$/;"	n
+CaptureImageToolDemo.Properties	.\CaptureImageToolDemo\Properties\Resources.Designer.cs	/^namespace CaptureImageToolDemo.Properties {$/;"	n
+CaptureImageToolDemo.Properties	.\CaptureImageToolDemo\Properties\Settings.Designer.cs	/^namespace CaptureImageToolDemo.Properties {$/;"	n
+CaptureImageTool_KeyUp	.\CaptureImageTool\CaptureImageTool.cs	/^        private void CaptureImageTool_KeyUp(object sender, KeyEventArgs e)$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+ChangeSelctImageRect	.\CaptureImageTool\CaptureImageTool.cs	/^        private void ChangeSelctImageRect(Point point)$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+ChangeToFontStyle	.\CaptureImageTool\ColorSelector.cs	/^        public void ChangeToFontStyle()$/;"	m	class:CSharpWin_JD.CaptureImage.ColorSelector
+CheckButton	.\CaptureImageTool\DrawToolsControl.cs	/^        private ToolStripButton CheckButton$/;"	p	class:CSharpWin_JD.CaptureImage.DrawToolsControl
+Clear	.\CaptureImageTool\OperateManager.cs	/^        public void Clear()$/;"	m	class:CSharpWin_JD.CaptureImage.OperateManager
+ClipCursor	.\CaptureImageTool\CaptureImageTool.cs	/^        private void ClipCursor(bool reset)$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+ClipCursor	.\CaptureImageTool\NativeMethods.cs	/^        public static extern bool ClipCursor(ref RECT lpRect);$/;"	m	class:CSharpWin_JD.CaptureImage.NativeMethods	file:
+Color	.\CaptureImageTool\OperateObject.cs	/^        public Color Color$/;"	p	class:CSharpWin_JD.CaptureImage.OperateObject
+ColorChanged	.\CaptureImageTool\ColorSelector.cs	/^        public event EventHandler ColorChanged$/;"	p	class:CSharpWin_JD.CaptureImage.ColorSelector
+ColorLabel	.\CaptureImageTool\ColorLabel.cs	/^        public ColorLabel()$/;"	m	class:CSharpWin_JD.CaptureImage.ColorLabel
+ColorLabel	.\CaptureImageTool\ColorLabel.cs	/^    public class ColorLabel : Control$/;"	c	namespace:CSharpWin_JD.CaptureImage
+ColorLabelClick	.\CaptureImageTool\ColorSelector.cs	/^        private void ColorLabelClick(object sender, EventArgs e)$/;"	m	class:CSharpWin_JD.CaptureImage.ColorSelector	file:
+ColorSelector	.\CaptureImageTool\ColorSelector.Designer.cs	/^    partial class ColorSelector$/;"	c	namespace:CSharpWin_JD.CaptureImage
+ColorSelector	.\CaptureImageTool\ColorSelector.cs	/^        public ColorSelector()$/;"	m	class:CSharpWin_JD.CaptureImage.ColorSelector
+ColorSelector	.\CaptureImageTool\ColorSelector.cs	/^    public partial class ColorSelector : UserControl$/;"	c	namespace:CSharpWin_JD.CaptureImage
+ColorSelectorColorChanged	.\CaptureImageTool\CaptureImageTool.cs	/^        private void ColorSelectorColorChanged(object sender, EventArgs e)$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+ColorTable	.\CaptureImageTool\CaptureImageTool.cs	/^        public CaptureImageToolColorTable ColorTable$/;"	p	class:CSharpWin_JD.CaptureImage.CaptureImageTool
+ColorTable	.\CaptureImageTool\ColorSelector.cs	/^        public CaptureImageToolColorTable ColorTable$/;"	p	class:CSharpWin_JD.CaptureImage.ColorSelector
+ColorTable	.\CaptureImageTool\DrawToolsControl.cs	/^        public CaptureImageToolColorTable ColorTable$/;"	p	class:CSharpWin_JD.CaptureImage.DrawToolsControl
+ColorTable	.\CaptureImageTool\ToolStripRendererEx.cs	/^        protected virtual CaptureImageToolColorTable ColorTable$/;"	p	class:CSharpWin_JD.CaptureImage.ToolStripRendererEx
+ComboBoxFontSizeSelectedIndexChanged	.\CaptureImageTool\ColorSelector.cs	/^        private void ComboBoxFontSizeSelectedIndexChanged(object sender, EventArgs e)$/;"	m	class:CSharpWin_JD.CaptureImage.ColorSelector	file:
+Completed	.\CaptureImageTool\DrawTextData.cs	/^        public bool Completed$/;"	p	class:CSharpWin_JD.CaptureImage.DrawTextData
+ControlPaintEx	.\CaptureImageTool\ControlPaintEx.cs	/^    public sealed class ControlPaintEx$/;"	c	namespace:CSharpWin_JD.CaptureImage
+CreateCursor	.\CaptureImageToolDemo\CursorManager.cs	/^        public Cursor CreateCursor(Bitmap cursor, Point hotPoint)$/;"	m	class:CaptureImageToolDemo.CursorManager
+CreateCursor	.\CaptureImageToolDemo\CursorManager.cs	/^        public static Cursor CreateCursor(string fileName)$/;"	m	class:CaptureImageToolDemo.CursorManager
+CreatePath	.\CaptureImageTool\GraphicsPathHelper.cs	/^        public static GraphicsPath CreatePath($/;"	m	class:CSharpWin_JD.CaptureImage.GraphicsPathHelper
+CreateRegion	.\CaptureImageTool\RegionHelper.cs	/^        public static void CreateRegion(Control control, Rectangle rect)$/;"	m	class:CSharpWin_JD.CaptureImage.RegionHelper
+Cross	.\CaptureImageToolDemo\CursorManager.cs	/^        public static readonly Cursor Cross = $/;"	f	class:CaptureImageToolDemo.CursorManager
+CrossNew	.\CaptureImageToolDemo\CursorManager.cs	/^        public static readonly Cursor CrossNew = $/;"	f	class:CaptureImageToolDemo.CursorManager
+Culture	.\CaptureImageToolDemo\Properties\Resources.Designer.cs	/^        internal static global::System.Globalization.CultureInfo Culture {$/;"	p	class:CaptureImageToolDemo.Properties.Resources
+Culture	.\CaptureImageTool\Properties\Resources.Designer.cs	/^        internal static global::System.Globalization.CultureInfo Culture {$/;"	p	class:CSharpWin_JD.CaptureImage.Properties.Resources
+CursorManager	.\CaptureImageToolDemo\CursorManager.cs	/^        private CursorManager() { }$/;"	m	class:CaptureImageToolDemo.CursorManager	file:
+CursorManager	.\CaptureImageToolDemo\CursorManager.cs	/^    internal class CursorManager$/;"	c	namespace:CaptureImageToolDemo
+DSTINVERT	.\CaptureImageTool\NativeMethods.cs	/^            DSTINVERT = 0x00550009, \/* dest = (NOT dest)*\/$/;"	e	enum:CSharpWin_JD.CaptureImage.NativeMethods.TernaryRasterOperations	file:
+Data	.\CaptureImageTool\OperateObject.cs	/^        public object Data$/;"	p	class:CSharpWin_JD.CaptureImage.OperateObject
+Default	.\CaptureImageToolDemo\Properties\Settings.Designer.cs	/^        public static Settings Default {$/;"	p	class:CaptureImageToolDemo.Properties.Settings
+Default	.\CaptureImageTool\Properties\Settings.Designer.cs	/^        public static Settings Default {$/;"	p	class:CSharpWin_JD.CaptureImage.Properties.Settings
+DefaultSize	.\CaptureImageTool\ColorLabel.cs	/^        protected override Size DefaultSize$/;"	p	class:CSharpWin_JD.CaptureImage.ColorLabel
+DefaultSize	.\CaptureImageTool\DrawToolsControl.cs	/^        protected override Size DefaultSize$/;"	p	class:CSharpWin_JD.CaptureImage.DrawToolsControl
+DestroyCursor	.\CaptureImageToolDemo\CursorManager.cs	/^        private static extern uint DestroyCursor(IntPtr cursorHandle);  $/;"	m	class:CaptureImageToolDemo.CursorManager	file:
+Dispose	.\CaptureImageToolDemo\FormCSharpWinDemo.Designer.cs	/^        protected override void Dispose(bool disposing)$/;"	m	class:CaptureImageToolDemo.FormCSharpWinDemo
+Dispose	.\CaptureImageTool\CaptureImageTool.Designer.cs	/^        protected override void Dispose(bool disposing)$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool
+Dispose	.\CaptureImageTool\ColorSelector.Designer.cs	/^        protected override void Dispose(bool disposing)$/;"	m	class:CSharpWin_JD.CaptureImage.ColorSelector
+Dispose	.\CaptureImageTool\DrawToolsControl.designer.cs	/^        protected override void Dispose(bool disposing)$/;"	m	class:CSharpWin_JD.CaptureImage.DrawToolsControl
+Dispose	.\CaptureImageTool\OperateManager.cs	/^        public void Dispose()$/;"	m	class:CSharpWin_JD.CaptureImage.OperateManager
+DrawArrow	.\CaptureImageTool\OperateType.cs	/^        DrawArrow,$/;"	e	enum:CSharpWin_JD.CaptureImage.OperateType	file:
+DrawBackgroundImage	.\CaptureImageTool\ControlPaintEx.cs	/^        public static void DrawBackgroundImage($/;"	m	class:CSharpWin_JD.CaptureImage.ControlPaintEx
+DrawCheckedFlag	.\CaptureImageTool\ControlPaintEx.cs	/^        public static void DrawCheckedFlag(Graphics graphics, Rectangle rect, Color color)$/;"	m	class:CSharpWin_JD.CaptureImage.ControlPaintEx
+DrawCursor	.\CaptureImageTool\CaptureImageTool.cs	/^        public Cursor DrawCursor$/;"	p	class:CSharpWin_JD.CaptureImage.CaptureImageTool
+DrawEllipse	.\CaptureImageTool\OperateType.cs	/^        DrawEllipse,$/;"	e	enum:CSharpWin_JD.CaptureImage.OperateType	file:
+DrawGlass	.\CaptureImageTool\ControlPaintEx.cs	/^        public static void DrawGlass($/;"	m	class:CSharpWin_JD.CaptureImage.ControlPaintEx
+DrawImageSizeInfo	.\CaptureImageTool\CaptureImageTool.cs	/^        private void DrawImageSizeInfo(Graphics g, Rectangle rect)$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+DrawLastImage	.\CaptureImageTool\CaptureImageTool.cs	/^        private void DrawLastImage()$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+DrawLine	.\CaptureImageTool\OperateType.cs	/^        DrawLine,$/;"	e	enum:CSharpWin_JD.CaptureImage.OperateType	file:
+DrawOperate	.\CaptureImageTool\CaptureImageTool.cs	/^        private void DrawOperate(Graphics g)$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+DrawRectangle	.\CaptureImageTool\OperateType.cs	/^        DrawRectangle,$/;"	e	enum:CSharpWin_JD.CaptureImage.OperateType	file:
+DrawStyle	.\CaptureImageTool\CaptureImageTool.cs	/^        private DrawStyle DrawStyle$/;"	p	class:CSharpWin_JD.CaptureImage.CaptureImageTool
+DrawStyle	.\CaptureImageTool\DrawStyle.cs	/^    public enum DrawStyle$/;"	g	namespace:CSharpWin_JD.CaptureImage
+DrawStyle	.\CaptureImageTool\DrawToolsControl.cs	/^        public DrawStyle DrawStyle$/;"	p	class:CSharpWin_JD.CaptureImage.DrawToolsControl
+DrawText	.\CaptureImageTool\OperateType.cs	/^        DrawText$/;"	e	enum:CSharpWin_JD.CaptureImage.OperateType	file:
+DrawTextData	.\CaptureImageTool\DrawTextData.cs	/^        public DrawTextData() { }$/;"	m	class:CSharpWin_JD.CaptureImage.DrawTextData
+DrawTextData	.\CaptureImageTool\DrawTextData.cs	/^        public DrawTextData(string text, Font font, Rectangle textRect) $/;"	m	class:CSharpWin_JD.CaptureImage.DrawTextData
+DrawTextData	.\CaptureImageTool\DrawTextData.cs	/^    internal class DrawTextData$/;"	c	namespace:CSharpWin_JD.CaptureImage
+DrawTools	.\CaptureImageTool\CaptureImageTool.cs	/^        private void DrawTools(Graphics g, Point point)$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+DrawToolsControl	.\CaptureImageTool\DrawToolsControl.cs	/^        public DrawToolsControl()$/;"	m	class:CSharpWin_JD.CaptureImage.DrawToolsControl
+DrawToolsControl	.\CaptureImageTool\DrawToolsControl.cs	/^    public partial class DrawToolsControl : UserControl$/;"	c	namespace:CSharpWin_JD.CaptureImage
+DrawToolsControl	.\CaptureImageTool\DrawToolsControl.designer.cs	/^    partial class DrawToolsControl$/;"	c	namespace:CSharpWin_JD.CaptureImage
+DrawToolsControlButtonAcceptClick	.\CaptureImageTool\CaptureImageTool.cs	/^        private void DrawToolsControlButtonAcceptClick(object sender, EventArgs e)$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+DrawToolsControlButtonDrawStyleClick	.\CaptureImageTool\CaptureImageTool.cs	/^        private void DrawToolsControlButtonDrawStyleClick(object sender, EventArgs e)$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+DrawToolsControlButtonExitClick	.\CaptureImageTool\CaptureImageTool.cs	/^        private void DrawToolsControlButtonExitClick(object sender, EventArgs e)$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+DrawToolsControlButtonRedoClick	.\CaptureImageTool\CaptureImageTool.cs	/^        private void DrawToolsControlButtonRedoClick(object sender, EventArgs e)$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+DrawToolsControlButtonSaveClick	.\CaptureImageTool\CaptureImageTool.cs	/^        private void DrawToolsControlButtonSaveClick(object sender, EventArgs e)$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+DrawToolsDockStyle	.\CaptureImageTool\DrawToolsControl.cs	/^        public DrawToolsDockStyle DrawToolsDockStyle$/;"	p	class:CSharpWin_JD.CaptureImage.DrawToolsControl
+DrawToolsDockStyle	.\CaptureImageTool\DrawToolsDockStyle.cs	/^    public enum DrawToolsDockStyle$/;"	g	namespace:CSharpWin_JD.CaptureImage
+Ellipse	.\CaptureImageTool\DrawStyle.cs	/^        Ellipse,$/;"	e	enum:CSharpWin_JD.CaptureImage.DrawStyle	file:
+Ellipse	.\CaptureImageTool\Properties\Resources.Designer.cs	/^        internal static System.Drawing.Bitmap Ellipse {$/;"	p	class:CSharpWin_JD.CaptureImage.Properties.Resources
+EventButtonAcceptClick	.\CaptureImageTool\DrawToolsControl.cs	/^        private static readonly object EventButtonAcceptClick = new object();$/;"	f	class:CSharpWin_JD.CaptureImage.DrawToolsControl	file:
+EventButtonDrawStyleClick	.\CaptureImageTool\DrawToolsControl.cs	/^        private static readonly object EventButtonDrawStyleClick = new object();$/;"	f	class:CSharpWin_JD.CaptureImage.DrawToolsControl	file:
+EventButtonExitClick	.\CaptureImageTool\DrawToolsControl.cs	/^        private static readonly object EventButtonExitClick = new object();$/;"	f	class:CSharpWin_JD.CaptureImage.DrawToolsControl	file:
+EventButtonRedoClick	.\CaptureImageTool\DrawToolsControl.cs	/^        private static readonly object EventButtonRedoClick = new object();$/;"	f	class:CSharpWin_JD.CaptureImage.DrawToolsControl	file:
+EventButtonSaveClick	.\CaptureImageTool\DrawToolsControl.cs	/^        private static readonly object EventButtonSaveClick = new object();$/;"	f	class:CSharpWin_JD.CaptureImage.DrawToolsControl	file:
+EventColorChanged	.\CaptureImageTool\ColorSelector.cs	/^        private static readonly object EventColorChanged = new object();$/;"	f	class:CSharpWin_JD.CaptureImage.ColorSelector	file:
+EventFontSizeChanged	.\CaptureImageTool\ColorSelector.cs	/^        private static readonly object EventFontSizeChanged = new object();$/;"	f	class:CSharpWin_JD.CaptureImage.ColorSelector	file:
+Exit	.\CaptureImageTool\Properties\Resources.Designer.cs	/^        internal static System.Drawing.Bitmap Exit {$/;"	p	class:CSharpWin_JD.CaptureImage.Properties.Resources
+Font	.\CaptureImageTool\DrawTextData.cs	/^        public Font Font$/;"	p	class:CSharpWin_JD.CaptureImage.DrawTextData
+FontSize	.\CaptureImageTool\CaptureImageTool.cs	/^        private int FontSize$/;"	p	class:CSharpWin_JD.CaptureImage.CaptureImageTool
+FontSize	.\CaptureImageTool\ColorSelector.cs	/^        public int FontSize$/;"	p	class:CSharpWin_JD.CaptureImage.ColorSelector
+FontSizeChanged	.\CaptureImageTool\ColorSelector.cs	/^        public event EventHandler FontSizeChanged$/;"	p	class:CSharpWin_JD.CaptureImage.ColorSelector
+ForeColor	.\CaptureImageToolDemo\ProfessionalCaptureImageToolColorTable.cs	/^        public override Color ForeColor$/;"	p	class:CaptureImageToolDemo.ProfessionalCaptureImageToolColorTable
+ForeColor	.\CaptureImageTool\CaptureImageToolColorTable.cs	/^        public virtual Color ForeColor$/;"	p	class:CSharpWin_JD.CaptureImage.CaptureImageToolColorTable
+FormCSharpWinDemo	.\CaptureImageToolDemo\FormCSharpWinDemo.Designer.cs	/^    partial class FormCSharpWinDemo$/;"	c	namespace:CaptureImageToolDemo
+FormCSharpWinDemo	.\CaptureImageToolDemo\FormCSharpWinDemo.cs	/^        public FormCSharpWinDemo()$/;"	m	class:CaptureImageToolDemo.FormCSharpWinDemo
+FormCSharpWinDemo	.\CaptureImageToolDemo\FormCSharpWinDemo.cs	/^    public partial class FormCSharpWinDemo : Form$/;"	c	namespace:CaptureImageToolDemo
+FromRectangle	.\CaptureImageTool\NativeMethods.cs	/^            public static RECT FromRectangle(Rectangle rect)$/;"	m	struct:CSharpWin_JD.CaptureImage.NativeMethods.RECT
+FromXYWH	.\CaptureImageTool\NativeMethods.cs	/^            public static RECT FromXYWH(int x, int y, int width, int height)$/;"	m	struct:CSharpWin_JD.CaptureImage.NativeMethods.RECT
+GetColor	.\CaptureImageTool\ColorSelector.cs	/^        private Color GetColor(Color colorBase, int a, int r, int g, int b)$/;"	m	class:CSharpWin_JD.CaptureImage.ColorSelector	file:
+GetColor	.\CaptureImageTool\ToolStripRendererEx.cs	/^        private Color GetColor(Color colorBase, int a, int r, int g, int b)$/;"	m	class:CSharpWin_JD.CaptureImage.ToolStripRendererEx	file:
+GetDC	.\CaptureImageTool\NativeMethods.cs	/^        public static extern IntPtr GetDC(IntPtr ptr);$/;"	m	class:CSharpWin_JD.CaptureImage.NativeMethods	file:
+GetDesktopWindow	.\CaptureImageTool\NativeMethods.cs	/^        public static extern IntPtr GetDesktopWindow();$/;"	m	class:CSharpWin_JD.CaptureImage.NativeMethods	file:
+GetDestopImage	.\CaptureImageTool\CaptureImageTool.cs	/^        private Image GetDestopImage()$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+GetSelectImageRect	.\CaptureImageTool\CaptureImageTool.cs	/^        private Rectangle GetSelectImageRect(Point endPoint)$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+GraphicsPathHelper	.\CaptureImageTool\GraphicsPathHelper.cs	/^    public static class GraphicsPathHelper$/;"	c	namespace:CSharpWin_JD.CaptureImage
+HideColorSelector	.\CaptureImageTool\CaptureImageTool.cs	/^        private void HideColorSelector()$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+HideDrawToolsControl	.\CaptureImageTool\CaptureImageTool.cs	/^        private void HideDrawToolsControl()$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+HideTextBox	.\CaptureImageTool\CaptureImageTool.cs	/^        private void HideTextBox()$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+Image	.\CaptureImageTool\CaptureImageTool.cs	/^        public Image Image$/;"	p	class:CSharpWin_JD.CaptureImage.CaptureImageTool
+ImageBoundsToRect	.\CaptureImageTool\CaptureImageTool.cs	/^        private Rectangle ImageBoundsToRect(Rectangle bounds)$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+Init	.\CaptureImageTool\CaptureImageTool.cs	/^        private void Init()$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+Init	.\CaptureImageTool\ColorSelector.cs	/^        private void Init()$/;"	m	class:CSharpWin_JD.CaptureImage.ColorSelector	file:
+InitEvents	.\CaptureImageToolDemo\FormCSharpWinDemo.cs	/^        private void InitEvents()$/;"	m	class:CaptureImageToolDemo.FormCSharpWinDemo	file:
+InitEvents	.\CaptureImageTool\DrawToolsControl.cs	/^        private void InitEvents()$/;"	m	class:CSharpWin_JD.CaptureImage.DrawToolsControl	file:
+InitializeComponent	.\CaptureImageToolDemo\FormCSharpWinDemo.Designer.cs	/^        private void InitializeComponent()$/;"	m	class:CaptureImageToolDemo.FormCSharpWinDemo	file:
+InitializeComponent	.\CaptureImageTool\CaptureImageTool.Designer.cs	/^        private void InitializeComponent()$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+InitializeComponent	.\CaptureImageTool\ColorSelector.Designer.cs	/^        private void InitializeComponent()$/;"	m	class:CSharpWin_JD.CaptureImage.ColorSelector	file:
+InitializeComponent	.\CaptureImageTool\DrawToolsControl.designer.cs	/^        private void InitializeComponent()$/;"	m	class:CSharpWin_JD.CaptureImage.DrawToolsControl	file:
+InnerBorderColor	.\CaptureImageTool\ColorSelector.cs	/^        private static readonly Color InnerBorderColor = $/;"	f	class:CSharpWin_JD.CaptureImage.ColorSelector	file:
+Left	.\CaptureImageTool\NativeMethods.cs	/^            public int Left;$/;"	f	struct:CSharpWin_JD.CaptureImage.NativeMethods.RECT
+Left	.\CaptureImageTool\RoundStyle.cs	/^        Left = 2,$/;"	e	enum:CSharpWin_JD.CaptureImage.RoundStyle	file:
+Left	.\CaptureImageTool\SizeGrip.cs	/^        Left,$/;"	e	enum:CSharpWin_JD.CaptureImage.SizeGrip	file:
+Line	.\CaptureImageTool\DrawStyle.cs	/^        Line$/;"	e	enum:CSharpWin_JD.CaptureImage.DrawStyle	file:
+Line	.\CaptureImageTool\Properties\Resources.Designer.cs	/^        internal static System.Drawing.Bitmap Line {$/;"	p	class:CSharpWin_JD.CaptureImage.Properties.Resources
+LinePointList	.\CaptureImageTool\CaptureImageTool.cs	/^        private List<Point> LinePointList$/;"	p	class:CSharpWin_JD.CaptureImage.CaptureImageTool
+LoadCursorFromFile	.\CaptureImageToolDemo\CursorManager.cs	/^        private static extern IntPtr LoadCursorFromFile(string fileName);$/;"	m	class:CaptureImageToolDemo.CursorManager	file:
+LoadLibrary	.\CaptureImageTool\NativeMethods.cs	/^        public static extern IntPtr LoadLibrary(string lpFileName);$/;"	m	class:CSharpWin_JD.CaptureImage.NativeMethods	file:
+MERGECOPY	.\CaptureImageTool\NativeMethods.cs	/^            MERGECOPY = 0x00C000CA, \/* dest = (source AND pattern)*\/$/;"	e	enum:CSharpWin_JD.CaptureImage.NativeMethods.TernaryRasterOperations	file:
+MERGEPAINT	.\CaptureImageTool\NativeMethods.cs	/^            MERGEPAINT = 0x00BB0226, \/* dest = (NOT source) OR dest*\/$/;"	e	enum:CSharpWin_JD.CaptureImage.NativeMethods.TernaryRasterOperations	file:
+Main	.\CaptureImageToolDemo\Program.cs	/^        static void Main()$/;"	m	class:CaptureImageToolDemo.Program	file:
+MaxOperateCount	.\CaptureImageTool\OperateManager.cs	/^        private static readonly int MaxOperateCount = 1000;$/;"	f	class:CSharpWin_JD.CaptureImage.OperateManager	file:
+MenuItemReselectClick	.\CaptureImageTool\CaptureImageTool.cs	/^        private void MenuItemReselectClick(object sender, EventArgs e)$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+MenuLogoString	.\CaptureImageTool\ToolStripRendererEx.cs	/^        private const string MenuLogoString = "";\/\/"csharpwin.com";$/;"	f	class:CSharpWin_JD.CaptureImage.ToolStripRendererEx	file:
+NOTSRCCOPY	.\CaptureImageTool\NativeMethods.cs	/^            NOTSRCCOPY = 0x00330008, \/* dest = (NOT source)*\/$/;"	e	enum:CSharpWin_JD.CaptureImage.NativeMethods.TernaryRasterOperations	file:
+NOTSRCERASE	.\CaptureImageTool\NativeMethods.cs	/^            NOTSRCERASE = 0x001100A6, \/* dest = (NOT src) AND (NOT dest) *\/$/;"	e	enum:CSharpWin_JD.CaptureImage.NativeMethods.TernaryRasterOperations	file:
+NativeMethods	.\CaptureImageTool\NativeMethods.cs	/^    internal class NativeMethods$/;"	c	namespace:CSharpWin_JD.CaptureImage
+None	.\CaptureImageTool\DrawStyle.cs	/^        None = 0,$/;"	e	enum:CSharpWin_JD.CaptureImage.DrawStyle	file:
+None	.\CaptureImageTool\DrawToolsDockStyle.cs	/^        None = 0,$/;"	e	enum:CSharpWin_JD.CaptureImage.DrawToolsDockStyle	file:
+None	.\CaptureImageTool\OperateType.cs	/^        None = 0,$/;"	e	enum:CSharpWin_JD.CaptureImage.OperateType	file:
+None	.\CaptureImageTool\RoundStyle.cs	/^        None = 0,$/;"	e	enum:CSharpWin_JD.CaptureImage.RoundStyle	file:
+None	.\CaptureImageTool\SizeGrip.cs	/^        None = 0,$/;"	e	enum:CSharpWin_JD.CaptureImage.SizeGrip	file:
+OffsetMargin	.\CaptureImageTool\ToolStripRendererEx.cs	/^        private static readonly int OffsetMargin = 24;$/;"	f	class:CSharpWin_JD.CaptureImage.ToolStripRendererEx	file:
+OnButtonAcceptClick	.\CaptureImageTool\DrawToolsControl.cs	/^        protected virtual void OnButtonAcceptClick(EventArgs e)$/;"	m	class:CSharpWin_JD.CaptureImage.DrawToolsControl
+OnButtonDrawStyleClick	.\CaptureImageTool\DrawToolsControl.cs	/^        protected virtual void OnButtonDrawStyleClick(EventArgs e)$/;"	m	class:CSharpWin_JD.CaptureImage.DrawToolsControl
+OnButtonExitClick	.\CaptureImageTool\DrawToolsControl.cs	/^        protected virtual void OnButtonExitClick(EventArgs e)$/;"	m	class:CSharpWin_JD.CaptureImage.DrawToolsControl
+OnButtonRedoClick	.\CaptureImageTool\DrawToolsControl.cs	/^        protected virtual void OnButtonRedoClick(EventArgs e)$/;"	m	class:CSharpWin_JD.CaptureImage.DrawToolsControl
+OnButtonSaveClick	.\CaptureImageTool\DrawToolsControl.cs	/^        protected virtual void OnButtonSaveClick(EventArgs e)$/;"	m	class:CSharpWin_JD.CaptureImage.DrawToolsControl
+OnClosing	.\CaptureImageTool\CaptureImageTool.cs	/^        protected override void OnClosing(CancelEventArgs e)$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool
+OnColorChanged	.\CaptureImageTool\ColorSelector.cs	/^        protected virtual void OnColorChanged(EventArgs e)$/;"	m	class:CSharpWin_JD.CaptureImage.ColorSelector
+OnCreateControl	.\CaptureImageToolDemo\FormCSharpWinDemo.cs	/^        protected override void OnCreateControl()$/;"	m	class:CaptureImageToolDemo.FormCSharpWinDemo
+OnCreateControl	.\CaptureImageTool\ColorSelector.cs	/^        protected override void OnCreateControl()$/;"	m	class:CSharpWin_JD.CaptureImage.ColorSelector
+OnCreateControl	.\CaptureImageTool\DrawToolsControl.cs	/^        protected override void OnCreateControl()$/;"	m	class:CSharpWin_JD.CaptureImage.DrawToolsControl
+OnFontSizeChanged	.\CaptureImageTool\ColorSelector.cs	/^        protected virtual void OnFontSizeChanged(EventArgs e)$/;"	m	class:CSharpWin_JD.CaptureImage.ColorSelector
+OnHandleDestroyed	.\CaptureImageToolDemo\FormCSharpWinDemo.cs	/^        protected override void OnHandleDestroyed(EventArgs e)$/;"	m	class:CaptureImageToolDemo.FormCSharpWinDemo
+OnLoad	.\CaptureImageTool\CaptureImageTool.cs	/^        protected override void OnLoad(EventArgs e)$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool
+OnMouseDoubleClick	.\CaptureImageTool\CaptureImageTool.cs	/^        protected override void OnMouseDoubleClick(MouseEventArgs e)$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool
+OnMouseDown	.\CaptureImageTool\CaptureImageTool.cs	/^        protected override void OnMouseDown(MouseEventArgs e)$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool
+OnMouseEnter	.\CaptureImageTool\CaptureImageTool.cs	/^        protected override void OnMouseEnter(EventArgs e)$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool
+OnMouseEnter	.\CaptureImageTool\DrawToolsControl.cs	/^        protected override void OnMouseEnter(EventArgs e)$/;"	m	class:CSharpWin_JD.CaptureImage.DrawToolsControl
+OnMouseMove	.\CaptureImageTool\CaptureImageTool.cs	/^        protected override void OnMouseMove(MouseEventArgs e)$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool
+OnMouseUp	.\CaptureImageTool\CaptureImageTool.cs	/^        protected override void OnMouseUp(MouseEventArgs e)$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool
+OnPaint	.\CaptureImageTool\CaptureImageTool.cs	/^        protected override void OnPaint(PaintEventArgs e)$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool
+OnPaint	.\CaptureImageTool\ColorLabel.cs	/^        protected override void OnPaint(PaintEventArgs e)$/;"	m	class:CSharpWin_JD.CaptureImage.ColorLabel
+OnPaint	.\CaptureImageTool\ColorSelector.cs	/^        protected override void OnPaint(PaintEventArgs e)$/;"	m	class:CSharpWin_JD.CaptureImage.ColorSelector
+OnPaint	.\CaptureImageTool\DrawToolsControl.cs	/^        protected override void OnPaint(PaintEventArgs e)$/;"	m	class:CSharpWin_JD.CaptureImage.DrawToolsControl
+OnRenderButtonBackground	.\CaptureImageTool\ToolStripRendererEx.cs	/^        protected override void OnRenderButtonBackground($/;"	m	class:CSharpWin_JD.CaptureImage.ToolStripRendererEx
+OnRenderImageMargin	.\CaptureImageTool\ToolStripRendererEx.cs	/^        protected override void OnRenderImageMargin($/;"	m	class:CSharpWin_JD.CaptureImage.ToolStripRendererEx
+OnRenderItemImage	.\CaptureImageTool\ToolStripRendererEx.cs	/^        protected override void OnRenderItemImage($/;"	m	class:CSharpWin_JD.CaptureImage.ToolStripRendererEx
+OnRenderItemText	.\CaptureImageTool\ToolStripRendererEx.cs	/^        protected override void OnRenderItemText($/;"	m	class:CSharpWin_JD.CaptureImage.ToolStripRendererEx
+OnRenderMenuItemBackground	.\CaptureImageTool\ToolStripRendererEx.cs	/^        protected override void OnRenderMenuItemBackground($/;"	m	class:CSharpWin_JD.CaptureImage.ToolStripRendererEx
+OnRenderSeparator	.\CaptureImageTool\ToolStripRendererEx.cs	/^        protected override void OnRenderSeparator($/;"	m	class:CSharpWin_JD.CaptureImage.ToolStripRendererEx
+OnRenderToolStripBackground	.\CaptureImageTool\ToolStripRendererEx.cs	/^        protected override void OnRenderToolStripBackground($/;"	m	class:CSharpWin_JD.CaptureImage.ToolStripRendererEx
+OnSizeChanged	.\CaptureImageTool\ColorSelector.cs	/^        protected override void OnSizeChanged(EventArgs e)$/;"	m	class:CSharpWin_JD.CaptureImage.ColorSelector
+OnSizeChanged	.\CaptureImageTool\DrawToolsControl.cs	/^        protected override void OnSizeChanged(EventArgs e)$/;"	m	class:CSharpWin_JD.CaptureImage.DrawToolsControl
+OperateCount	.\CaptureImageTool\OperateManager.cs	/^        public int OperateCount$/;"	p	class:CSharpWin_JD.CaptureImage.OperateManager
+OperateList	.\CaptureImageTool\OperateManager.cs	/^        public List<OperateObject> OperateList$/;"	p	class:CSharpWin_JD.CaptureImage.OperateManager
+OperateManager	.\CaptureImageTool\CaptureImageTool.cs	/^        internal OperateManager OperateManager$/;"	p	class:CSharpWin_JD.CaptureImage.CaptureImageTool
+OperateManager	.\CaptureImageTool\OperateManager.cs	/^        public OperateManager()$/;"	m	class:CSharpWin_JD.CaptureImage.OperateManager
+OperateManager	.\CaptureImageTool\OperateManager.cs	/^    internal class OperateManager : IDisposable$/;"	c	namespace:CSharpWin_JD.CaptureImage
+OperateObject	.\CaptureImageTool\OperateObject.cs	/^        public OperateObject($/;"	m	class:CSharpWin_JD.CaptureImage.OperateObject
+OperateObject	.\CaptureImageTool\OperateObject.cs	/^        public OperateObject() { }$/;"	m	class:CSharpWin_JD.CaptureImage.OperateObject
+OperateObject	.\CaptureImageTool\OperateObject.cs	/^    internal class OperateObject$/;"	c	namespace:CSharpWin_JD.CaptureImage
+OperateType	.\CaptureImageTool\OperateObject.cs	/^        public OperateType OperateType$/;"	p	class:CSharpWin_JD.CaptureImage.OperateObject
+OperateType	.\CaptureImageTool\OperateType.cs	/^    internal enum OperateType$/;"	g	namespace:CSharpWin_JD.CaptureImage
+PATCOPY	.\CaptureImageTool\NativeMethods.cs	/^            PATCOPY = 0x00F00021, \/* dest = pattern*\/$/;"	e	enum:CSharpWin_JD.CaptureImage.NativeMethods.TernaryRasterOperations	file:
+PATINVERT	.\CaptureImageTool\NativeMethods.cs	/^            PATINVERT = 0x005A0049, \/* dest = pattern XOR dest*\/$/;"	e	enum:CSharpWin_JD.CaptureImage.NativeMethods.TernaryRasterOperations	file:
+PATPAINT	.\CaptureImageTool\NativeMethods.cs	/^            PATPAINT = 0x00FB0A09, \/* dest = DPSnoo*\/$/;"	e	enum:CSharpWin_JD.CaptureImage.NativeMethods.TernaryRasterOperations	file:
+ProfessionalCaptureImageToolColorTable	.\CaptureImageToolDemo\ProfessionalCaptureImageToolColorTable.cs	/^        public ProfessionalCaptureImageToolColorTable() { }$/;"	m	class:CaptureImageToolDemo.ProfessionalCaptureImageToolColorTable
+ProfessionalCaptureImageToolColorTable	.\CaptureImageToolDemo\ProfessionalCaptureImageToolColorTable.cs	/^    public class ProfessionalCaptureImageToolColorTable : $/;"	c	namespace:CaptureImageToolDemo
+Program	.\CaptureImageToolDemo\Program.cs	/^    static class Program$/;"	c	namespace:CaptureImageToolDemo
+RECT	.\CaptureImageTool\NativeMethods.cs	/^            public RECT(Rectangle rect)$/;"	m	struct:CSharpWin_JD.CaptureImage.NativeMethods.RECT
+RECT	.\CaptureImageTool\NativeMethods.cs	/^            public RECT(int left, int top, int right, int bottom)$/;"	m	struct:CSharpWin_JD.CaptureImage.NativeMethods.RECT
+RECT	.\CaptureImageTool\NativeMethods.cs	/^        public struct RECT$/;"	s	class:CSharpWin_JD.CaptureImage.NativeMethods
+Rect	.\CaptureImageTool\NativeMethods.cs	/^            public Rectangle Rect$/;"	p	struct:CSharpWin_JD.CaptureImage.NativeMethods.RECT
+Rectangle	.\CaptureImageTool\DrawStyle.cs	/^        Rectangle,$/;"	e	enum:CSharpWin_JD.CaptureImage.DrawStyle	file:
+Rectangular	.\CaptureImageTool\Properties\Resources.Designer.cs	/^        internal static System.Drawing.Bitmap Rectangular {$/;"	p	class:CSharpWin_JD.CaptureImage.Properties.Resources
+Redo	.\CaptureImageTool\Properties\Resources.Designer.cs	/^        internal static System.Drawing.Bitmap Redo {$/;"	p	class:CSharpWin_JD.CaptureImage.Properties.Resources
+RedoOperate	.\CaptureImageTool\OperateManager.cs	/^        public bool RedoOperate()$/;"	m	class:CSharpWin_JD.CaptureImage.OperateManager
+RegionHelper	.\CaptureImageTool\RegionHelper.cs	/^    internal static class RegionHelper$/;"	c	namespace:CSharpWin_JD.CaptureImage
+ReleaseDC	.\CaptureImageTool\NativeMethods.cs	/^        public static extern int ReleaseDC(IntPtr hwnd, IntPtr hDC);$/;"	m	class:CSharpWin_JD.CaptureImage.NativeMethods	file:
+RenderBackgroundInternal	.\CaptureImageTool\ColorSelector.cs	/^        internal void RenderBackgroundInternal($/;"	m	class:CSharpWin_JD.CaptureImage.ColorSelector	file:
+RenderBackgroundInternal	.\CaptureImageTool\ToolStripRendererEx.cs	/^        internal void RenderBackgroundInternal($/;"	m	class:CSharpWin_JD.CaptureImage.ToolStripRendererEx	file:
+RenderSeparatorLine	.\CaptureImageTool\ToolStripRendererEx.cs	/^        internal void RenderSeparatorLine($/;"	m	class:CSharpWin_JD.CaptureImage.ToolStripRendererEx	file:
+Reset	.\CaptureImageTool\ColorSelector.cs	/^        public void Reset()$/;"	m	class:CSharpWin_JD.CaptureImage.ColorSelector
+ResetDrawStyle	.\CaptureImageTool\DrawToolsControl.cs	/^        public void ResetDrawStyle()$/;"	m	class:CSharpWin_JD.CaptureImage.DrawToolsControl
+ResetSelectImage	.\CaptureImageTool\CaptureImageTool.cs	/^        private void ResetSelectImage()$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+ResourceManager	.\CaptureImageToolDemo\Properties\Resources.Designer.cs	/^        internal static global::System.Resources.ResourceManager ResourceManager {$/;"	p	class:CaptureImageToolDemo.Properties.Resources
+ResourceManager	.\CaptureImageTool\Properties\Resources.Designer.cs	/^        internal static global::System.Resources.ResourceManager ResourceManager {$/;"	p	class:CSharpWin_JD.CaptureImage.Properties.Resources
+Resources	.\CaptureImageToolDemo\Properties\Resources.Designer.cs	/^        internal Resources() {$/;"	m	class:CaptureImageToolDemo.Properties.Resources	file:
+Resources	.\CaptureImageToolDemo\Properties\Resources.Designer.cs	/^    internal class Resources {$/;"	c	namespace:CaptureImageToolDemo.Properties
+Resources	.\CaptureImageTool\Properties\Resources.Designer.cs	/^        internal Resources() {$/;"	m	class:CSharpWin_JD.CaptureImage.Properties.Resources	file:
+Resources	.\CaptureImageTool\Properties\Resources.Designer.cs	/^    internal class Resources {$/;"	c	namespace:CSharpWin_JD.CaptureImage.Properties
+RestrictRect	.\CaptureImageTool\CaptureImageTool.cs	/^        private void RestrictRect(ref Rectangle orignal, Rectangle RestrictedRect)$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+RestrictedRect	.\CaptureImageTool\CaptureImageTool.cs	/^        private Rectangle RestrictedRect { get; set; }$/;"	p	class:CSharpWin_JD.CaptureImage.CaptureImageTool
+Right	.\CaptureImageTool\NativeMethods.cs	/^            public int Right;$/;"	f	struct:CSharpWin_JD.CaptureImage.NativeMethods.RECT
+Right	.\CaptureImageTool\RoundStyle.cs	/^        Right = 3,$/;"	e	enum:CSharpWin_JD.CaptureImage.RoundStyle	file:
+Right	.\CaptureImageTool\SizeGrip.cs	/^        Right,$/;"	e	enum:CSharpWin_JD.CaptureImage.SizeGrip	file:
+RoundStyle	.\CaptureImageTool\RoundStyle.cs	/^    public enum RoundStyle$/;"	g	namespace:CSharpWin_JD.CaptureImage
+SRCAND	.\CaptureImageTool\NativeMethods.cs	/^            SRCAND = 0x008800C6, \/* dest = source AND dest*\/$/;"	e	enum:CSharpWin_JD.CaptureImage.NativeMethods.TernaryRasterOperations	file:
+SRCCOPY	.\CaptureImageTool\NativeMethods.cs	/^            SRCCOPY = 0x00CC0020, \/* dest = source*\/$/;"	e	enum:CSharpWin_JD.CaptureImage.NativeMethods.TernaryRasterOperations	file:
+SRCERASE	.\CaptureImageTool\NativeMethods.cs	/^            SRCERASE = 0x00440328, \/* dest = source AND (NOT dest )*\/$/;"	e	enum:CSharpWin_JD.CaptureImage.NativeMethods.TernaryRasterOperations	file:
+SRCINVERT	.\CaptureImageTool\NativeMethods.cs	/^            SRCINVERT = 0x00660046, \/* dest = source XOR dest*\/$/;"	e	enum:CSharpWin_JD.CaptureImage.NativeMethods.TernaryRasterOperations	file:
+SRCPAINT	.\CaptureImageTool\NativeMethods.cs	/^            SRCPAINT = 0x00EE0086, \/* dest = source OR dest*\/$/;"	e	enum:CSharpWin_JD.CaptureImage.NativeMethods.TernaryRasterOperations	file:
+Save	.\CaptureImageTool\Properties\Resources.Designer.cs	/^        internal static System.Drawing.Bitmap Save {$/;"	p	class:CSharpWin_JD.CaptureImage.Properties.Resources
+ScreenImage	.\CaptureImageTool\CaptureImageTool.cs	/^        private Image ScreenImage;$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+ScrollToFirstVisibleMessage	.\UpgradeLog.htm	/^/;"	f
+SelectCursor	.\CaptureImageTool\CaptureImageTool.cs	/^        public Cursor SelectCursor$/;"	p	class:CSharpWin_JD.CaptureImage.CaptureImageTool
+SelectImageRect	.\CaptureImageTool\CaptureImageTool.cs	/^        internal Rectangle SelectImageRect$/;"	p	class:CSharpWin_JD.CaptureImage.CaptureImageTool
+SelectedColor	.\CaptureImageTool\CaptureImageTool.cs	/^        private Color SelectedColor$/;"	p	class:CSharpWin_JD.CaptureImage.CaptureImageTool
+SelectedColor	.\CaptureImageTool\ColorSelector.cs	/^        public Color SelectedColor$/;"	p	class:CSharpWin_JD.CaptureImage.ColorSelector
+SelectedImage	.\CaptureImageTool\CaptureImageTool.cs	/^        internal bool SelectedImage$/;"	p	class:CSharpWin_JD.CaptureImage.CaptureImageTool
+SetColorLabelBorderColor	.\CaptureImageTool\ColorSelector.cs	/^        private void SetColorLabelBorderColor(Color borderColor)$/;"	m	class:CSharpWin_JD.CaptureImage.ColorSelector	file:
+SetControlColorTable	.\CaptureImageTool\CaptureImageTool.cs	/^        private void SetControlColorTable()$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+SetRegion	.\CaptureImageTool\ColorSelector.cs	/^        private void SetRegion()$/;"	m	class:CSharpWin_JD.CaptureImage.ColorSelector	file:
+SetRegion	.\CaptureImageTool\DrawToolsControl.cs	/^        private void SetRegion()$/;"	m	class:CSharpWin_JD.CaptureImage.DrawToolsControl	file:
+SetSizeGrip	.\CaptureImageTool\CaptureImageTool.cs	/^        private void SetSizeGrip(Point point)$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+SetStyles	.\CaptureImageTool\ColorLabel.cs	/^        private void SetStyles()$/;"	m	class:CSharpWin_JD.CaptureImage.ColorLabel	file:
+Settings	.\CaptureImageToolDemo\Properties\Settings.Designer.cs	/^    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {$/;"	c	namespace:CaptureImageToolDemo.Properties
+Settings	.\CaptureImageTool\Properties\Settings.Designer.cs	/^    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {$/;"	c	namespace:CSharpWin_JD.CaptureImage.Properties
+ShowColorSelector	.\CaptureImageTool\CaptureImageTool.cs	/^        private void ShowColorSelector()$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+ShowDrawToolsControl	.\CaptureImageTool\CaptureImageTool.cs	/^        private void ShowDrawToolsControl()$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+ShowTextBox	.\CaptureImageTool\CaptureImageTool.cs	/^        private void ShowTextBox()$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+Size	.\CaptureImageTool\NativeMethods.cs	/^            public Size Size$/;"	p	struct:CSharpWin_JD.CaptureImage.NativeMethods.RECT
+SizeGrip	.\CaptureImageTool\CaptureImageTool.cs	/^        internal SizeGrip SizeGrip$/;"	p	class:CSharpWin_JD.CaptureImage.CaptureImageTool
+SizeGrip	.\CaptureImageTool\SizeGrip.cs	/^    internal enum SizeGrip$/;"	g	namespace:CSharpWin_JD.CaptureImage
+SizeGripRectList	.\CaptureImageTool\CaptureImageTool.cs	/^        internal Dictionary<SizeGrip, Rectangle> SizeGripRectList$/;"	p	class:CSharpWin_JD.CaptureImage.CaptureImageTool
+TernaryRasterOperations	.\CaptureImageTool\NativeMethods.cs	/^        public enum TernaryRasterOperations$/;"	g	class:CSharpWin_JD.CaptureImage.NativeMethods
+Text	.\CaptureImageToolDemo\FormCSharpWinDemo.cs	/^        public override string Text$/;"	p	class:CaptureImageToolDemo.FormCSharpWinDemo
+Text	.\CaptureImageTool\DrawStyle.cs	/^        Text,$/;"	e	enum:CSharpWin_JD.CaptureImage.DrawStyle	file:
+Text	.\CaptureImageTool\DrawTextData.cs	/^        public string Text$/;"	p	class:CSharpWin_JD.CaptureImage.DrawTextData
+Text	.\CaptureImageTool\Properties\Resources.Designer.cs	/^        internal static System.Drawing.Bitmap Text {$/;"	p	class:CSharpWin_JD.CaptureImage.Properties.Resources
+TextBoxExLostFocus	.\CaptureImageTool\CaptureImageTool.cs	/^        private void TextBoxExLostFocus(object sender, EventArgs e)$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+TextFont	.\CaptureImageTool\CaptureImageTool.cs	/^        private static readonly Font TextFont =$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+TextRect	.\CaptureImageTool\DrawTextData.cs	/^        public Rectangle TextRect$/;"	p	class:CSharpWin_JD.CaptureImage.DrawTextData
+ToggleMessageVisibility	.\UpgradeLog.htm	/^/;"	f
+ToolStripItemClicked	.\CaptureImageTool\DrawToolsControl.cs	/^        private void ToolStripItemClicked($/;"	m	class:CSharpWin_JD.CaptureImage.DrawToolsControl	file:
+ToolStripRendererEx	.\CaptureImageTool\ToolStripRendererEx.cs	/^        public ToolStripRendererEx() : base()$/;"	m	class:CSharpWin_JD.CaptureImage.ToolStripRendererEx
+ToolStripRendererEx	.\CaptureImageTool\ToolStripRendererEx.cs	/^        public ToolStripRendererEx(CaptureImageToolColorTable colorTable)$/;"	m	class:CSharpWin_JD.CaptureImage.ToolStripRendererEx
+ToolStripRendererEx	.\CaptureImageTool\ToolStripRendererEx.cs	/^    public class ToolStripRendererEx : ToolStripRenderer$/;"	c	namespace:CSharpWin_JD.CaptureImage
+ToolTipStartCapture	.\CaptureImageTool\CaptureImageTool.cs	/^        private static readonly string ToolTipStartCapture = "按住左键不放选择截图区域";$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+Top	.\CaptureImageTool\DrawToolsDockStyle.cs	/^        Top,$/;"	e	enum:CSharpWin_JD.CaptureImage.DrawToolsDockStyle	file:
+Top	.\CaptureImageTool\NativeMethods.cs	/^            public int Top;$/;"	f	struct:CSharpWin_JD.CaptureImage.NativeMethods.RECT
+Top	.\CaptureImageTool\RoundStyle.cs	/^        Top = 4,$/;"	e	enum:CSharpWin_JD.CaptureImage.RoundStyle	file:
+Top	.\CaptureImageTool\SizeGrip.cs	/^        Top,$/;"	e	enum:CSharpWin_JD.CaptureImage.SizeGrip	file:
+TopLeft	.\CaptureImageTool\SizeGrip.cs	/^        TopLeft,$/;"	e	enum:CSharpWin_JD.CaptureImage.SizeGrip	file:
+TopRight	.\CaptureImageTool\SizeGrip.cs	/^        TopRight,$/;"	e	enum:CSharpWin_JD.CaptureImage.SizeGrip	file:
+WHITENESS	.\CaptureImageTool\NativeMethods.cs	/^            WHITENESS = 0x00FF0062, \/* dest = WHITE*\/$/;"	e	enum:CSharpWin_JD.CaptureImage.NativeMethods.TernaryRasterOperations	file:
+WS_EX_TRANSPARENT	.\CaptureImageTool\NativeMethods.cs	/^        public const int WS_EX_TRANSPARENT = 0x00000020;$/;"	f	class:CSharpWin_JD.CaptureImage.NativeMethods
+_backColorHover	.\CaptureImageToolDemo\ProfessionalCaptureImageToolColorTable.cs	/^        private static readonly Color _backColorHover = Color.FromArgb(106, 255, 34);$/;"	f	class:CaptureImageToolDemo.ProfessionalCaptureImageToolColorTable	file:
+_backColorHover	.\CaptureImageTool\CaptureImageToolColorTable.cs	/^        private static readonly Color _backColorHover = Color.FromArgb(65, 173, 236);$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageToolColorTable	file:
+_backColorNormal	.\CaptureImageToolDemo\ProfessionalCaptureImageToolColorTable.cs	/^        private static readonly Color _backColorNormal = Color.FromArgb(221, 255, 205);$/;"	f	class:CaptureImageToolDemo.ProfessionalCaptureImageToolColorTable	file:
+_backColorNormal	.\CaptureImageTool\CaptureImageToolColorTable.cs	/^        private static readonly Color _backColorNormal = Color.FromArgb(229, 243, 251);$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageToolColorTable	file:
+_backColorPressed	.\CaptureImageToolDemo\ProfessionalCaptureImageToolColorTable.cs	/^        private static readonly Color _backColorPressed = Color.FromArgb(74, 226, 0);$/;"	f	class:CaptureImageToolDemo.ProfessionalCaptureImageToolColorTable	file:
+_backColorPressed	.\CaptureImageTool\CaptureImageToolColorTable.cs	/^        private static readonly Color _backColorPressed = Color.FromArgb(24, 142, 206);$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageToolColorTable	file:
+_borderColor	.\CaptureImageToolDemo\ProfessionalCaptureImageToolColorTable.cs	/^        private static readonly Color _borderColor = Color.FromArgb(106, 255, 34);$/;"	f	class:CaptureImageToolDemo.ProfessionalCaptureImageToolColorTable	file:
+_borderColor	.\CaptureImageTool\CaptureImageToolColorTable.cs	/^        private static readonly Color _borderColor = Color.FromArgb(65, 173, 236);$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageToolColorTable	file:
+_borderColor	.\CaptureImageTool\ColorLabel.cs	/^        private Color _borderColor = Color.FromArgb(65, 173, 236);$/;"	f	class:CSharpWin_JD.CaptureImage.ColorLabel	file:
+_checkButton	.\CaptureImageTool\DrawToolsControl.cs	/^        private ToolStripButton _checkButton;$/;"	f	class:CSharpWin_JD.CaptureImage.DrawToolsControl	file:
+_color	.\CaptureImageTool\OperateObject.cs	/^        private Color _color;$/;"	f	class:CSharpWin_JD.CaptureImage.OperateObject	file:
+_colorTable	.\CaptureImageToolDemo\FormCSharpWinDemo.cs	/^        private ProfessionalCaptureImageToolColorTable _colorTable =$/;"	f	class:CaptureImageToolDemo.FormCSharpWinDemo	file:
+_colorTable	.\CaptureImageTool\CaptureImageTool.cs	/^        private CaptureImageToolColorTable _colorTable;$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+_colorTable	.\CaptureImageTool\ColorSelector.cs	/^        private CaptureImageToolColorTable _colorTable;$/;"	f	class:CSharpWin_JD.CaptureImage.ColorSelector	file:
+_colorTable	.\CaptureImageTool\DrawToolsControl.cs	/^        private CaptureImageToolColorTable _colorTable;$/;"	f	class:CSharpWin_JD.CaptureImage.DrawToolsControl	file:
+_colorTable	.\CaptureImageTool\ToolStripRendererEx.cs	/^        private CaptureImageToolColorTable _colorTable;$/;"	f	class:CSharpWin_JD.CaptureImage.ToolStripRendererEx	file:
+_completed	.\CaptureImageTool\DrawTextData.cs	/^        private bool _completed;$/;"	f	class:CSharpWin_JD.CaptureImage.DrawTextData	file:
+_data	.\CaptureImageTool\OperateObject.cs	/^        private object _data;$/;"	f	class:CSharpWin_JD.CaptureImage.OperateObject	file:
+_drawCursor	.\CaptureImageTool\CaptureImageTool.cs	/^        private Cursor _drawCursor = Cursors.Cross;$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+_drawStyle	.\CaptureImageTool\DrawToolsControl.cs	/^        private DrawStyle _drawStyle;$/;"	f	class:CSharpWin_JD.CaptureImage.DrawToolsControl	file:
+_drawToolsDockStyle	.\CaptureImageTool\DrawToolsControl.cs	/^        private DrawToolsDockStyle _drawToolsDockStyle;$/;"	f	class:CSharpWin_JD.CaptureImage.DrawToolsControl	file:
+_endPoint	.\CaptureImageTool\CaptureImageTool.cs	/^        private Point _endPoint;$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+_font	.\CaptureImageTool\DrawTextData.cs	/^        private Font _font;$/;"	f	class:CSharpWin_JD.CaptureImage.DrawTextData	file:
+_foreColor	.\CaptureImageToolDemo\ProfessionalCaptureImageToolColorTable.cs	/^        private static readonly Color _foreColor = Color.FromArgb(41, 126, 0);$/;"	f	class:CaptureImageToolDemo.ProfessionalCaptureImageToolColorTable	file:
+_foreColor	.\CaptureImageTool\CaptureImageToolColorTable.cs	/^        private static readonly Color _foreColor = Color.FromArgb(12, 83, 124);$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageToolColorTable	file:
+_image	.\CaptureImageTool\CaptureImageTool.cs	/^        private Image _image;$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+_linePointList	.\CaptureImageTool\CaptureImageTool.cs	/^        private List<Point> _linePointList;$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+_mouseDown	.\CaptureImageTool\CaptureImageTool.cs	/^        private bool _mouseDown;$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+_mouseDownPoint	.\CaptureImageTool\CaptureImageTool.cs	/^        private Point _mouseDownPoint;$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+_operateList	.\CaptureImageTool\OperateManager.cs	/^        private List<OperateObject> _operateList;$/;"	f	class:CSharpWin_JD.CaptureImage.OperateManager	file:
+_operateManager	.\CaptureImageTool\CaptureImageTool.cs	/^        private OperateManager _operateManager;$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+_operateType	.\CaptureImageTool\OperateObject.cs	/^        private OperateType _operateType;$/;"	f	class:CSharpWin_JD.CaptureImage.OperateObject	file:
+_selectCursor	.\CaptureImageTool\CaptureImageTool.cs	/^        private Cursor _selectCursor = Cursors.Default;$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+_selectImageBounds	.\CaptureImageTool\CaptureImageTool.cs	/^        private Rectangle _selectImageBounds;$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+_selectImageRect	.\CaptureImageTool\CaptureImageTool.cs	/^        private Rectangle _selectImageRect;$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+_selectedImage	.\CaptureImageTool\CaptureImageTool.cs	/^        private bool _selectedImage;$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+_sizeGrip	.\CaptureImageTool\CaptureImageTool.cs	/^        private SizeGrip _sizeGrip;$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+_sizeGripRectList	.\CaptureImageTool\CaptureImageTool.cs	/^        private Dictionary<SizeGrip, Rectangle> _sizeGripRectList;$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+_systemMenuNativeWindow	.\CaptureImageToolDemo\FormCSharpWinDemo.cs	/^        private SystemMenuNativeWindow _systemMenuNativeWindow;$/;"	f	class:CaptureImageToolDemo.FormCSharpWinDemo	file:
+_text	.\CaptureImageTool\DrawTextData.cs	/^        private string _text;$/;"	f	class:CSharpWin_JD.CaptureImage.DrawTextData	file:
+_textRect	.\CaptureImageTool\DrawTextData.cs	/^        private Rectangle _textRect;$/;"	f	class:CSharpWin_JD.CaptureImage.DrawTextData	file:
+buttonCaptureImage	.\CaptureImageToolDemo\FormCSharpWinDemo.Designer.cs	/^        private System.Windows.Forms.Button buttonCaptureImage;$/;"	f	class:CaptureImageToolDemo.FormCSharpWinDemo	file:
+buttonCaptureImage_Click	.\CaptureImageToolDemo\FormCSharpWinDemo.cs	/^        private void buttonCaptureImage_Click(object sender, EventArgs e)$/;"	m	class:CaptureImageToolDemo.FormCSharpWinDemo	file:
+checkBoxColorTable	.\CaptureImageToolDemo\FormCSharpWinDemo.Designer.cs	/^        private System.Windows.Forms.CheckBox checkBoxColorTable;$/;"	f	class:CaptureImageToolDemo.FormCSharpWinDemo	file:
+checkBoxCursor	.\CaptureImageToolDemo\FormCSharpWinDemo.Designer.cs	/^        private System.Windows.Forms.CheckBox checkBoxCursor;$/;"	f	class:CaptureImageToolDemo.FormCSharpWinDemo	file:
+checkBoxHide	.\CaptureImageToolDemo\FormCSharpWinDemo.Designer.cs	/^        private System.Windows.Forms.CheckBox checkBoxHide;$/;"	f	class:CaptureImageToolDemo.FormCSharpWinDemo	file:
+colorLabel1	.\CaptureImageTool\ColorSelector.Designer.cs	/^        private ColorLabel colorLabel1;$/;"	f	class:CSharpWin_JD.CaptureImage.ColorSelector	file:
+colorLabel10	.\CaptureImageTool\ColorSelector.Designer.cs	/^        private ColorLabel colorLabel10;$/;"	f	class:CSharpWin_JD.CaptureImage.ColorSelector	file:
+colorLabel11	.\CaptureImageTool\ColorSelector.Designer.cs	/^        private ColorLabel colorLabel11;$/;"	f	class:CSharpWin_JD.CaptureImage.ColorSelector	file:
+colorLabel12	.\CaptureImageTool\ColorSelector.Designer.cs	/^        private ColorLabel colorLabel12;$/;"	f	class:CSharpWin_JD.CaptureImage.ColorSelector	file:
+colorLabel13	.\CaptureImageTool\ColorSelector.Designer.cs	/^        private ColorLabel colorLabel13;$/;"	f	class:CSharpWin_JD.CaptureImage.ColorSelector	file:
+colorLabel14	.\CaptureImageTool\ColorSelector.Designer.cs	/^        private ColorLabel colorLabel14;$/;"	f	class:CSharpWin_JD.CaptureImage.ColorSelector	file:
+colorLabel15	.\CaptureImageTool\ColorSelector.Designer.cs	/^        private ColorLabel colorLabel15;$/;"	f	class:CSharpWin_JD.CaptureImage.ColorSelector	file:
+colorLabel16	.\CaptureImageTool\ColorSelector.Designer.cs	/^        private ColorLabel colorLabel16;$/;"	f	class:CSharpWin_JD.CaptureImage.ColorSelector	file:
+colorLabel2	.\CaptureImageTool\ColorSelector.Designer.cs	/^        private ColorLabel colorLabel2;$/;"	f	class:CSharpWin_JD.CaptureImage.ColorSelector	file:
+colorLabel3	.\CaptureImageTool\ColorSelector.Designer.cs	/^        private ColorLabel colorLabel3;$/;"	f	class:CSharpWin_JD.CaptureImage.ColorSelector	file:
+colorLabel4	.\CaptureImageTool\ColorSelector.Designer.cs	/^        private ColorLabel colorLabel4;$/;"	f	class:CSharpWin_JD.CaptureImage.ColorSelector	file:
+colorLabel5	.\CaptureImageTool\ColorSelector.Designer.cs	/^        private ColorLabel colorLabel5;$/;"	f	class:CSharpWin_JD.CaptureImage.ColorSelector	file:
+colorLabel6	.\CaptureImageTool\ColorSelector.Designer.cs	/^        private ColorLabel colorLabel6;$/;"	f	class:CSharpWin_JD.CaptureImage.ColorSelector	file:
+colorLabel7	.\CaptureImageTool\ColorSelector.Designer.cs	/^        private ColorLabel colorLabel7;$/;"	f	class:CSharpWin_JD.CaptureImage.ColorSelector	file:
+colorLabel8	.\CaptureImageTool\ColorSelector.Designer.cs	/^        private ColorLabel colorLabel8;$/;"	f	class:CSharpWin_JD.CaptureImage.ColorSelector	file:
+colorLabel9	.\CaptureImageTool\ColorSelector.Designer.cs	/^        private ColorLabel colorLabel9;$/;"	f	class:CSharpWin_JD.CaptureImage.ColorSelector	file:
+colorLabelSelected	.\CaptureImageTool\ColorSelector.Designer.cs	/^        private ColorLabel colorLabelSelected;$/;"	f	class:CSharpWin_JD.CaptureImage.ColorSelector	file:
+colorSelector	.\CaptureImageTool\CaptureImageTool.Designer.cs	/^        private ColorSelector colorSelector;$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+comboBoxFontSize	.\CaptureImageTool\ColorSelector.Designer.cs	/^        private System.Windows.Forms.ComboBox comboBoxFontSize;$/;"	f	class:CSharpWin_JD.CaptureImage.ColorSelector	file:
+components	.\CaptureImageToolDemo\FormCSharpWinDemo.Designer.cs	/^        private System.ComponentModel.IContainer components = null;$/;"	f	class:CaptureImageToolDemo.FormCSharpWinDemo	file:
+components	.\CaptureImageTool\CaptureImageTool.Designer.cs	/^        private System.ComponentModel.IContainer components = null;$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+components	.\CaptureImageTool\ColorSelector.Designer.cs	/^        private System.ComponentModel.IContainer components = null;$/;"	f	class:CSharpWin_JD.CaptureImage.ColorSelector	file:
+components	.\CaptureImageTool\DrawToolsControl.designer.cs	/^        private System.ComponentModel.IContainer components = null;$/;"	f	class:CSharpWin_JD.CaptureImage.DrawToolsControl	file:
+contextMenuStrip	.\CaptureImageTool\CaptureImageTool.Designer.cs	/^        private System.Windows.Forms.ContextMenuStrip contextMenuStrip;$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+contextMenuStripVisible	.\CaptureImageTool\CaptureImageTool.cs	/^        private bool contextMenuStripVisible = false;$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+correctDown	.\CaptureImageTool\CaptureImageTool.cs	/^        private bool correctDown = false;$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+defaultInstance	.\CaptureImageToolDemo\Properties\Settings.Designer.cs	/^        private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));$/;"	f	class:CaptureImageToolDemo.Properties.Settings	file:
+defaultInstance	.\CaptureImageTool\Properties\Settings.Designer.cs	/^        private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));$/;"	f	class:CSharpWin_JD.CaptureImage.Properties.Settings	file:
+drawToolsControl	.\CaptureImageTool\CaptureImageTool.Designer.cs	/^        private DrawToolsControl drawToolsControl;$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+isPointInRect	.\CaptureImageTool\CaptureImageTool.cs	/^        protected bool isPointInRect(Rectangle rect, Point p)$/;"	m	class:CSharpWin_JD.CaptureImage.CaptureImageTool
+labelFont	.\CaptureImageTool\ColorSelector.Designer.cs	/^        private System.Windows.Forms.Label labelFont;$/;"	f	class:CSharpWin_JD.CaptureImage.ColorSelector	file:
+linkLabelCSharpWin	.\CaptureImageToolDemo\FormCSharpWinDemo.Designer.cs	/^        private System.Windows.Forms.LinkLabel linkLabelCSharpWin;$/;"	f	class:CaptureImageToolDemo.FormCSharpWinDemo	file:
+linkify	.\UpgradeLog.htm	/^/;"	f
+linkifyElement	.\UpgradeLog.htm	/^/;"	f
+mask	.\CaptureImageTool\CaptureImageTool.cs	/^        private static SolidBrush mask = new SolidBrush(Color.FromArgb(100, 0, 0, 0));$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+menuItemAccept	.\CaptureImageTool\CaptureImageTool.Designer.cs	/^        private System.Windows.Forms.ToolStripMenuItem menuItemAccept;$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+menuItemExit	.\CaptureImageTool\CaptureImageTool.Designer.cs	/^        private System.Windows.Forms.ToolStripMenuItem menuItemExit;$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+menuItemRedo	.\CaptureImageTool\CaptureImageTool.Designer.cs	/^        private System.Windows.Forms.ToolStripMenuItem menuItemRedo;$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+menuItemReselect	.\CaptureImageTool\CaptureImageTool.Designer.cs	/^        private System.Windows.Forms.ToolStripMenuItem menuItemReselect;$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+menuItemSave	.\CaptureImageTool\CaptureImageTool.Designer.cs	/^        private System.Windows.Forms.ToolStripMenuItem menuItemSave;$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+panelBottom	.\CaptureImageToolDemo\FormCSharpWinDemo.Designer.cs	/^        private System.Windows.Forms.Panel panelBottom;$/;"	f	class:CaptureImageToolDemo.FormCSharpWinDemo	file:
+panelFill	.\CaptureImageTool\ColorSelector.Designer.cs	/^        private System.Windows.Forms.Panel panelFill;$/;"	f	class:CSharpWin_JD.CaptureImage.ColorSelector	file:
+panelLeft	.\CaptureImageTool\ColorSelector.Designer.cs	/^        private System.Windows.Forms.Panel panelLeft;$/;"	f	class:CSharpWin_JD.CaptureImage.ColorSelector	file:
+panelTop	.\CaptureImageToolDemo\FormCSharpWinDemo.Designer.cs	/^        private System.Windows.Forms.Panel panelTop;$/;"	f	class:CaptureImageToolDemo.FormCSharpWinDemo	file:
+pictureBox	.\CaptureImageToolDemo\FormCSharpWinDemo.Designer.cs	/^        private System.Windows.Forms.PictureBox pictureBox;$/;"	f	class:CaptureImageToolDemo.FormCSharpWinDemo	file:
+resourceCulture	.\CaptureImageToolDemo\Properties\Resources.Designer.cs	/^        private static global::System.Globalization.CultureInfo resourceCulture;$/;"	f	class:CaptureImageToolDemo.Properties.Resources	file:
+resourceCulture	.\CaptureImageTool\Properties\Resources.Designer.cs	/^        private static global::System.Globalization.CultureInfo resourceCulture;$/;"	f	class:CSharpWin_JD.CaptureImage.Properties.Resources	file:
+resourceMan	.\CaptureImageToolDemo\Properties\Resources.Designer.cs	/^        private static global::System.Resources.ResourceManager resourceMan;$/;"	f	class:CaptureImageToolDemo.Properties.Resources	file:
+resourceMan	.\CaptureImageTool\Properties\Resources.Designer.cs	/^        private static global::System.Resources.ResourceManager resourceMan;$/;"	f	class:CSharpWin_JD.CaptureImage.Properties.Resources	file:
+saveFileDialog	.\CaptureImageTool\CaptureImageTool.Designer.cs	/^        private System.Windows.Forms.SaveFileDialog saveFileDialog;$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+scrollToFirstVisibleRow	.\UpgradeLog.htm	/^/;"	f
+textBox	.\CaptureImageTool\CaptureImageTool.Designer.cs	/^        private System.Windows.Forms.TextBox textBox;$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+toggleTableRowsByName	.\UpgradeLog.htm	/^/;"	f
+toolStrip	.\CaptureImageTool\DrawToolsControl.designer.cs	/^        private System.Windows.Forms.ToolStrip toolStrip;$/;"	f	class:CSharpWin_JD.CaptureImage.DrawToolsControl	file:
+toolStripButtonAccept	.\CaptureImageTool\DrawToolsControl.designer.cs	/^        private System.Windows.Forms.ToolStripButton toolStripButtonAccept;$/;"	f	class:CSharpWin_JD.CaptureImage.DrawToolsControl	file:
+toolStripButtonExit	.\CaptureImageTool\DrawToolsControl.designer.cs	/^        private System.Windows.Forms.ToolStripButton toolStripButtonExit;$/;"	f	class:CSharpWin_JD.CaptureImage.DrawToolsControl	file:
+toolStripButtonSave_Click	.\CaptureImageTool\DrawToolsControl.cs	/^        private void toolStripButtonSave_Click(object sender, EventArgs e)$/;"	m	class:CSharpWin_JD.CaptureImage.DrawToolsControl	file:
+toolStripSeparator1	.\CaptureImageTool\CaptureImageTool.Designer.cs	/^        private System.Windows.Forms.ToolStripSeparator toolStripSeparator1;$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+toolStripSeparator2	.\CaptureImageTool\CaptureImageTool.Designer.cs	/^        private System.Windows.Forms.ToolStripSeparator toolStripSeparator2;$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
+toolStripSeparator2	.\CaptureImageTool\DrawToolsControl.designer.cs	/^        private System.Windows.Forms.ToolStripSeparator toolStripSeparator2;$/;"	f	class:CSharpWin_JD.CaptureImage.DrawToolsControl	file:
+toolTip	.\CaptureImageTool\CaptureImageTool.Designer.cs	/^        private System.Windows.Forms.ToolTip toolTip;$/;"	f	class:CSharpWin_JD.CaptureImage.CaptureImageTool	file:
